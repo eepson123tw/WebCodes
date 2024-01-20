@@ -24,7 +24,7 @@
 
 ## 架構
 
-- `main.js` - 主要的 JavaScript 文件，包含視頻捕捉和初始化的邏輯。
+- `main.ts` - 主要的 JavaScript 文件，包含視頻捕捉和初始化的邏輯。
 - `video-worker.js` - Web Worker 文件，處理視頻編解碼。
 - `index.html` - 網頁的主要 HTML 文件。
 
